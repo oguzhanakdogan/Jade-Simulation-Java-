@@ -19,6 +19,7 @@ In this report, the implementation of Arena simulation in Assignment 1 with Jade
 
 1. ` `Firstly, go over the “Install new software” in the help menu on eclipse.
 
+![Install new software](https://github.com/oguzhanakdogan/Jade-Simulation-Java-/Images/install-new-software.png?raw=true)
 
 1. Write EJADE - <http://dit.unitn.it/~dnguyen/ejade/update>[ in the Work with bar.]()
 
